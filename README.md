@@ -1,6 +1,7 @@
-## Stock Price Prediction
+# Stock Price Prediction
+This project focuses on predicting stock prices using Long Short-Term Memory (LSTM) neural networks. By leveraging historical stock data, including features such as open, high, low, and volume, the model aims to forecast future stock prices. The project involves data preprocessing, model training, and evaluation, providing insights into the model's performance and highlighting potential areas for improvement. Visualizations of actual versus predicted prices are included to assess the accuracy of the predictions.
 
-# Tech Stack: 
+## Tech Stack: 
 Programming Language: Python
 
 
@@ -8,7 +9,7 @@ Libraries: TensorFlow, Keras, scikit-learn, pandas, numpy, matplotlib
 
 Environment: Jupyter Notebook
 
-# Project Steps
+## Project Steps
 1. Data Collection: Gather historical stock price data.
 
 2. Data Preprocessing:
